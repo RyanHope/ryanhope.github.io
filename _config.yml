@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: Ryan Hope
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Cognitive Scientist / Developer / Homebrewer
 
 # --- Navigation bar options --- #
 
@@ -28,8 +28,9 @@ avatar: "/img/avatar-icon.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Me: "aboutme"
-  Author's home: "http://deanattali.com"
+  About: ""
+  Research: ""
+  Projects: ""
   
 # --- Footer options --- #
 
